@@ -2,9 +2,9 @@
 
 ### 찾아봤던 내용들
 
-1. [팩토리 메서드 패턴](https://github.com/aycish/effective-java-study/tree/main/src/main/java/me/jounhee/chapter01/item01/factory/factoryMethod.md) - 본문에서 사용되는 팩터리 메서드와 유사하지만, 동일한 것은 아님
-2. [템플릿 메서드 패턴](https://github.com/aycish/effective-java-study/tree/main/src/main/java/me/jounhee/chapter01/item01/template/templateMethod.md)
-3. [플라이 웨이트](https://github.com/aycish/effective-java-study/tree/main/src/main/java/me/jounhee/chapter01/item01/flyweight/flyWeight.md)
+1. [팩토리 메서드 패턴](https://github.com/aycish/effective-java-study/blob/main/src/main/java/me/jounhee/chapter01/item01/factory/factoryMethod.md) - 본문에서 사용되는 팩터리 메서드와 유사하지만, 동일한 것은 아님
+2. [템플릿 메서드 패턴](https://github.com/aycish/effective-java-study/blob/main/src/main/java/me/jounhee/chapter01/item01/template/templateMethod.md)
+3. [플라이 웨이트](https://github.com/aycish/effective-java-study/blob/main/src/main/java/me/jounhee/chapter01/item01/flyweight/flyWeight.md)
 
 ---
 
