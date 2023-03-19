@@ -1,7 +1,7 @@
 package me.jounhee.chapter02.item10.inheritance;
 
 
-import me.whiteship.chapter02.item10.Point;
+import me.jounhee.chapter02.item10.Point;
 
 import java.util.Set;
 

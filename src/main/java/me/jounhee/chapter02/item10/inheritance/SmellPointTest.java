@@ -1,6 +1,6 @@
 package me.jounhee.chapter02.item10.inheritance;
 
-import me.whiteship.chapter02.item10.Color;
+import me.jounhee.chapter02.item10.Color;
 
 public class SmellPointTest {
 

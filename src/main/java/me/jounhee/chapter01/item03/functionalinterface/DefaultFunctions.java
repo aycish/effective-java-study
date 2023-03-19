@@ -1,7 +1,7 @@
 package me.jounhee.chapter01.item03.functionalinterface;
 
 
-import me.whiteship.chapter01.item03.methodreference.Person;
+import me.jounhee.chapter01.item03.methodreference.Person;
 
 import java.time.LocalDate;
 import java.util.function.Consumer;

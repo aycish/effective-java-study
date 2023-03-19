@@ -1,6 +1,6 @@
 package me.jounhee.chapter01.item03.enumtype;
 
-import me.whiteship.chapter01.item03.field.Elvis;
+import me.jounhee.chapter01.item03.field.Elvis;
 
 import java.io.*;
 
