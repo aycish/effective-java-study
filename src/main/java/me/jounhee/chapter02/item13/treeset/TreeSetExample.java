@@ -10,11 +10,7 @@ import java.util.TreeSet;
 public class TreeSetExample {
 
     public static void main(String[] args) {
-//        TreeSet<Integer> numbers = new TreeSet<>();
-//        numbers.add(10);
-//        numbers.add(4);
-//        numbers.add(6);
-
+        // Comparator를 구현 및 삽입하여 natural order로 정렬할 수 있게끔 함
         TreeSet<PhoneNumber> numbers = new TreeSet<>(Comparator.comparingInt(PhoneNumber::hashCode));
         Set<PhoneNumber> phoneNumbers = Collections.synchronizedSet(numbers);
         phoneNumbers.add(new PhoneNumber(123, 456, 780));
