@@ -5,6 +5,5 @@ public class FinalizerIsBad {
     @Override
     protected void finalize() throws Throwable {
         System.out.print("");
-        Object
     }
 }

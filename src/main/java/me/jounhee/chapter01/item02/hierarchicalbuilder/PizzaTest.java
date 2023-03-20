@@ -1,8 +1,8 @@
 package me.jounhee.chapter01.item02.hierarchicalbuilder;
 
 
-import static me.whiteship.chapter01.item02.hierarchicalbuilder.NyPizza.Size.SMALL;
-import static me.whiteship.chapter01.item02.hierarchicalbuilder.Pizza.Topping.*;
+import static me.jounhee.chapter01.item02.hierarchicalbuilder.NyPizza.Size.SMALL;
+import static me.jounhee.chapter01.item02.hierarchicalbuilder.Pizza.Topping.*;
 
 // 계층적 빌더 사용 (21쪽)
 public class PizzaTest {
